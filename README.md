@@ -1,6 +1,6 @@
 # 📢 Challenge-48H
 
-This year, one of my subjects was to make a mini Capture The Flag (CTF) in less than 48 hours. I hope you will like this project.
+This year, one of my subjects was to make a mini Capture The Flag (CTF) in less than 48 hours. I hope you will like this project.😁
 
 ## 💻 Technologies used
 <div>
