@@ -1,0 +1,162 @@
+*{
+    font-family: montserrat, sans-serif;
+}
+
+body{
+   margin: 0;
+}
+
+header{
+    background-color: black;
+    height: 100px;
+}
+
+.logo-ynov{
+    height: 90px;
+    position: relative;
+    left: 20px;
+}
+
+.section1{
+    height: 88vh;
+    width: 100%;
+    background-image: url("../CSS/assets/fond\ challenge\ 48h.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.intro{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    right: 100px;
+}
+
+h1{
+    font-family: Monserrat, sans-serif;
+    font-size: 70px;
+    color: white;
+}
+
+p{
+    color: white;
+    font-family: Monserrat, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 200%;
+    font-weight: bold;
+}
+
+.challenge{
+    height: 35vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c1{
+    border-bottom: 2px solid white;
+}
+
+.c2{
+    border-bottom: 2px solid white;
+}
+
+.c3{
+    border-bottom: 2px solid white;
+}
+
+.c4{
+    border-bottom: 2px solid white;
+}
+
+.ctn-challenge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 250px;
+}
+
+h2{
+    color: white;
+    font-family: Monserrat, sans-serif;
+    font-size: 35px;
+}
+
+.button{
+    color: #119E9B;
+    text-decoration: none;
+    font-family: Monserrat, sans-serif;
+    font-weight: bold;
+    border: 2px solid #119E9B;
+    border-radius: 50px;
+    height: 50px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s ease;
+}
+
+.button:hover{
+    color: white;
+    border: 2px solid white;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: black;
+    width: 400px;
+    position: relative;
+    right: 100px;
+    color: white;
+  }
+
+  .submit-button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    position: relative;
+    right: 100px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+  }
+
+  .submit-button:hover{
+    color: #119E9B;border: 2px solid #119E9B;
+  }
+
+.logo-challenge{
+    height: 150px;
+    border-radius: 20%;
+}
+
+.titre{
+    background-color: black;
+}
+
+.challenge1{
+    height: 15vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
